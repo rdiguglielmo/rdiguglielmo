@@ -1,5 +1,3 @@
-# Roman Di Guglielmo
-
 I build data pipelines end to end — from raw public-sector and regulatory sources to dimensional
 models and Power BI dashboards — across local, lakehouse and cloud warehouse environments.
 
