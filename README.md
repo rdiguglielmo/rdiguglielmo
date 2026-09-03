@@ -4,8 +4,7 @@ I build data pipelines end to end — from raw public-sector and regulatory sour
 models and Power BI dashboards — across local, lakehouse and cloud warehouse environments.
 
 [LinkedIn](https://www.linkedin.com/in/rdiguglielmo) ·
-[Upwork](https://www.upwork.com/freelancers/~01bf95ce2c78bcf992) ·
-[GitHub](https://github.com/rdiguglielmo)
+[Upwork](https://www.upwork.com/freelancers/~01bf95ce2c78bcf992)
 
 ---
 
