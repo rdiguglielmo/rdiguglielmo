@@ -27,6 +27,11 @@ building forces the scope to be honest.
 | EU Trade Lakehouse | Databricks, PySpark, Delta, Medallion Architecture, Power BI | Processes detailed EU import/export data through bronze/silver/gold layers | In progress |
 | EU Public Procurement Pipeline | Airflow, GCS, BigQuery, dbt, Python, XML, Power BI | Orchestrated cloud pipeline over EU tender notices for public spend analytics | In progress |
 
+**Alongside them:** [powerbi-theme-lab](https://github.com/rdiguglielmo/powerbi-theme-lab) — a Power
+BI theming system generated from code, with an automated WCAG contrast audit, shown on the dashboard
+from the first project rendered in six themes. Report design and working method rather than a fifth
+pipeline.
+
 ---
 
 ## Tech Stack
@@ -39,5 +44,5 @@ Only what is actually demonstrated in a repository above. This section grows as 
 | Transformation | dbt |
 | Storage and formats | DuckDB, Parquet |
 | BI and reporting | Power BI, DAX, Power Query |
-| Practices | Dimensional Modeling, Data Quality, Incremental Ingestion |
+| Practices | Dimensional Modeling, Data Quality, Incremental Ingestion, Design Systems, Accessibility (WCAG) |
 | Tooling | Git |
