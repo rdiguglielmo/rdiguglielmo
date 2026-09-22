@@ -36,7 +36,7 @@ keeps its scope honest. Listed without links until the repository exists.
 
 | Project | Tools | Description |
 |---|---|---|
-| 📈 US Public Companies — Financial Analysis | SQL, Python, Power BI | Takes an evidence-based position on the performance of listed companies, built on top of the warehouse above. |
+| 📈 US Restaurant Sector — Financial Analysis | SQL, Python, Power BI | Takes an evidence-based position on the relative financial health of ten listed restaurant companies, built on top of the warehouse above. |
 | 🚢 EU Trade Lakehouse | Databricks, PySpark, Delta, Power BI | Processes detailed EU import and export data through bronze, silver and gold layers. |
 | 🏛 EU Public Procurement Pipeline | Airflow, GCS, BigQuery, dbt, Python, XML, Power BI | Orchestrated cloud pipeline over EU tender notices for public spend analytics. |
 
